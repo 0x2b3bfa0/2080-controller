@@ -69,7 +69,7 @@ void  IRsend::enableIROut (int khz)
 }
 
 //+=============================================================================
-// Custom delay function that circumvents Arduino's delayMicroseconds limit
+// Velleman delay function that circumvents Arduino's delayMicroseconds limit
 
 void IRsend::custom_delay_usec(unsigned long uSecs) {
   if (uSecs > 4) {
@@ -79,9 +79,8 @@ void IRsend::custom_delay_usec(unsigned long uSecs) {
       while ( micros() > start ) {} // wait until overflow
     }
     while ( micros() < endMicros ) {} // normal wait
-  } 
+  }
   //else {
   //  __asm__("nop\n\t"); // must have or compiler optimizes out
   //}
 }
-
