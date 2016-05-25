@@ -1,0 +1,348 @@
+[
+    {
+        "address": 2,
+        "value": 0,
+        "name": [
+            "ESC"
+        ]
+    },
+    {
+        "address": 2,
+        "value": 1,
+        "name": [
+            "Q-PROG"
+        ]
+    },
+    {
+        "address": 2,
+        "value": 2,
+        "name": [
+            "TIME/DATE"
+        ]
+    },
+    {
+        "address": 2,
+        "value": 3,
+        "name": [
+            "ON/OFF"
+        ]
+    },
+    {
+        "address": 2,
+        "value": 4,
+        "name": [
+            "FUNCT"
+        ]
+    },
+    {
+        "address": 2,
+        "value": 5,
+        "name": [
+            "PROG"
+        ]
+    },
+    {
+        "address": 2,
+        "value": 6,
+        "name": [
+            "EUROP-CHAR"
+        ]
+    },
+    {
+        "address": 2,
+        "value": 7,
+        "name": [
+            "SHIFT"
+        ]
+    },
+    {
+        "address": 2,
+        "value": 8,
+        "name": [
+            "ENTER"
+        ]
+    },
+    {
+        "address": 2,
+        "value": 9,
+        "name": [
+            "RUN-PAGE"
+        ]
+    },
+    {
+        "address": 2,
+        "value": 10,
+        "name": [
+            "FONT"
+        ]
+    },
+    {
+        "address": 2,
+        "value": 11,
+        "name": [
+            "COLOR"
+        ]
+    },
+    {
+        "address": 2,
+        "value": 12,
+        "name": [
+            "DOWN"
+        ]
+    },
+    {
+        "address": 2,
+        "value": 13,
+        "name": [
+            "UP"
+        ]
+    },
+    {
+        "address": 2,
+        "value": 14,
+        "name": [
+            "RIGHT"
+        ]
+    },
+    {
+        "address": 2,
+        "value": 15,
+        "name": [
+            "LEFT"
+        ]
+    },
+    {
+        "address": 2,
+        "value": 16,
+        "name": [
+            "D",
+            "$"
+        ]
+    },
+    {
+        "address": 2,
+        "value": 17,
+        "name": [
+            "C",
+            "3",
+            ":"
+        ]
+    },
+    {
+        "address": 2,
+        "value": 18,
+        "name": [
+            "B",
+            "2",
+            ";"
+        ]
+    },
+    {
+        "address": 2,
+        "value": 19,
+        "name": [
+            "A",
+            "1",
+            "!"
+        ]
+    },
+    {
+        "address": 2,
+        "value": 20,
+        "name": [
+            "H",
+            "£"
+        ]
+    },
+    {
+        "address": 2,
+        "value": 21,
+        "name": [
+            "G",
+            "6",
+            "\""
+        ]
+    },
+    {
+        "address": 2,
+        "value": 22,
+        "name": [
+            "F",
+            "5",
+            "`"
+        ]
+    },
+    {
+        "address": 2,
+        "value": 23,
+        "name": [
+            "E",
+            "4",
+            "'"
+        ]
+    },
+    {
+        "address": 2,
+        "value": 24,
+        "name": [
+            "L",
+            "¥"
+        ]
+    },
+    {
+        "address": 2,
+        "value": 25,
+        "name": [
+            "K",
+            "9",
+            "%"
+        ]
+    },
+    {
+        "address": 2,
+        "value": 26,
+        "name": [
+            "J",
+            "8",
+            "\\"
+        ]
+    },
+    {
+        "address": 2,
+        "value": 27,
+        "name": [
+            "I",
+            "7",
+            "&"
+        ]
+    },
+    {
+        "address": 2,
+        "value": 28,
+        "name": [
+            "P",
+            "@"
+        ]
+    },
+    {
+        "address": 2,
+        "value": 29,
+        "name": [
+            "O",
+            "#",
+            "]"
+        ]
+    },
+    {
+        "address": 2,
+        "value": 30,
+        "name": [
+            "N",
+            "0",
+            "["
+        ]
+    },
+    {
+        "address": 2,
+        "value": 31,
+        "name": [
+            "M",
+            "*",
+            "?"
+        ]
+    },
+    {
+        "address": 2,
+        "value": 52,
+        "name": [
+            "T",
+            "="
+        ]
+    },
+    {
+        "address": 2,
+        "value": 53,
+        "name": [
+            "S",
+            "/"
+        ]
+    },
+    {
+        "address": 2,
+        "value": 54,
+        "name": [
+            "R",
+            "-"
+        ]
+    },
+    {
+        "address": 2,
+        "value": 55,
+        "name": [
+            "Q",
+            "+"
+        ]
+    },
+    {
+        "address": 2,
+        "value": 88,
+        "name": [
+            "X",
+            ">"
+        ]
+    },
+    {
+        "address": 2,
+        "value": 89,
+        "name": [
+            "W",
+            "<"
+        ]
+    },
+    {
+        "address": 2,
+        "value": 90,
+        "name": [
+            "V",
+            ")"
+        ]
+    },
+    {
+        "address": 2,
+        "value": 91,
+        "name": [
+            "U",
+            "("
+        ]
+    },
+    {
+        "address": 2,
+        "value": 156,
+        "name": [
+            "DEL"
+        ]
+    },
+    {
+        "address": 2,
+        "value": 157,
+        "name": [
+            "SPACE"
+        ]
+    },
+    {
+        "address": 2,
+        "value": 158,
+        "name": [
+            "Z",
+            ","
+        ]
+    },
+    {
+        "address": 2,
+        "value": 159,
+        "name": [
+            "Y",
+            "."
+        ]
+    }
+]

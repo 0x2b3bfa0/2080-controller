@@ -1,0 +1,6 @@
+# Rescue Logfile. Created by GNU ddrescue version 1.17
+# Command line: ddrescue /dev/sr0 Software.iso Software.log
+# current_pos  current_status
+0x00120000     +
+#      pos        size  status
+0x00000000  0x0012C000  +
