@@ -29,11 +29,10 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
 //
 // unsigned long long int total_hours_wasted_here = 104;
 //
-// If you're pigheaded and you will try to optimize it anyway,
-// feel free to listen the same music I've listened.
-// You can find the title of the music I've heard
-// while programming each file on a comment below
-// the license.
+// If you feel the desperate need of modifying the code,
+// feel free do it accompanied by music. You can find the
+// ones I've listened at while doing this work by looking
+// up the comment below the license on each file.
 
 #include "main.h"
 
