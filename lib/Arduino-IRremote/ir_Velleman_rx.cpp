@@ -97,7 +97,7 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
 
 	  // Fix the jumps between some keycodes
 	  if (data > 31) data -= 20; // --> These lines will fix the jumps between
-	  if (data > 55) data -= 32; // --> some keycodes by substracting the jump
+	  if (data > 55) data -= 32; // --> some keycodes by subtracting the jump
 	  if (data > 91) data -= 64; // --> to `data`, so we get adjacent keycodes
 
 	  // Convert the keycodes from RTL (right to left) to LTR (left to right).
