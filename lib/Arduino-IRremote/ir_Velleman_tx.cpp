@@ -35,7 +35,7 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
     if (data > 91) data += 64; // --> to know how works.
 
     // Convert the keycodes from LTR (left to right) to RTL (right to left).
-    data -= 2 * (data % 4) - 3;  // See below the explaination of the formula.
+    data -= 2 * (data % 4) - 3;  // See below the explanation of the formula.
     //
 		// As the optimized formula above is difficult to explain,
     // I'll put below a small C code that does the same thing.
