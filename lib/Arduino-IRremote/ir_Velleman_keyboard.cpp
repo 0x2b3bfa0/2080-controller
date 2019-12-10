@@ -1,5 +1,5 @@
 /*
-COPYRIGHT (c) 2016 Helio Machado <crushedice2000@gmail.com>
+COPYRIGHT (c) 2016 Helio Machado <0x2b3bfa0>
 
 GNU GENERAL PUBLIC LICENSE
    Version 3, 29 June 2007
